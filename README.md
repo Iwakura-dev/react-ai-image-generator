@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # React Ai Image Generator
 - This project is a training project to understand the principles of working with generators
 - At the moment this project can only send requests with POST methods, and send you the generated image that you wrote in the string
+- Stack: React.js + React-Query. For styling I used SCSS
