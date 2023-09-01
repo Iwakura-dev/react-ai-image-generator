@@ -1,0 +1,18 @@
+.container{
+  &__circle-pink{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    background-color: #ed2ff0;
+    filter: blur(180px);
+  }
+  &__circle-blue{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 120px;
+    height: 120px;
+    background-color: #675afe;
+    filter: blur(180px);
+  }
+}
